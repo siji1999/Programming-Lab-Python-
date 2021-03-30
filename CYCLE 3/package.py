@@ -1,4 +1,3 @@
-
 import CO3.graphics.rectangle
 #selective import
 from CO3.graphics.graphics3D.cuboid import area
